@@ -1,3 +1,3 @@
-Welcome to the Home page!!
+Welcome to the Home page!
 
 Go to the  [[Test Page]].
